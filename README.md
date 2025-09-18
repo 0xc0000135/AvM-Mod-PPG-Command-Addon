@@ -14,7 +14,7 @@ namespace Mod
     }
     public static void OnLoad()
     {
-      //To find the mod and get types and methods from it.
+      //To find the mod and get types and methods from it
       AssemblyLoader.LoadMod();
 
       //1) Command; 2) Method that will be executed when the command is entered
