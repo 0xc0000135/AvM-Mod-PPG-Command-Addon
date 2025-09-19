@@ -2,8 +2,8 @@
   "Name": "Test Command",
   "Author": "You",
   "Description": "Just a sample of addon",
-  "ModVersion": "2.2",
-  "GameVersion": "1.10+",
+  "ModVersion": "1.0",
+  "GameVersion": "1.27.5",
   "ThumbnailPath": "",
   "EntryPoint": "Mod.Mod",
   "Tags": [
